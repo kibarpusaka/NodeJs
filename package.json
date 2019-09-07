@@ -1,0 +1,14 @@
+{
+  "name": "portofolio_node",
+  "version": "1.0.0",
+  "description": "responsive ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Khibar Pusaka",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
